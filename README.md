@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Mohammed Isal, a passionate self-taught full stack web developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br><br>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<br>💬 Ask me about anything, I am glad to assist you<br>
+Hi, I'm Mohammed Isal, a passionate self-taught full stack web developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br><br>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<br>💬 Ask me about anything, I am glad to assist you <br>
+### 📫 How to reach me:
+- Email: [muhammedishal0483@gmail.com](mailto:muhammedishal0483@gmail.com)
 
 
 ## 🌐 Socials:
